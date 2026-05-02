@@ -35,7 +35,7 @@
 
 ## 🎯 Current Missions
 
-- 🩸 **DonVie** — Full-stack blood donation coordination platform (React + Node.js + Firebase)
+- 🩸 **DonVie** — Full-stack blood donation coordination platform
 - 🏥 **Smart Health Monitor** — Embedded system with emergency alert using STM32 + IoT
 - 🤖 **Medical AI** — Exploring AI applications in healthcare diagnostics
 - 📡 **Embedded Linux** — Advanced driver development & VHDL for complex FPGA architectures
